@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Javed\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Javed\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Reflection.-1732895899.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Javed\Projects\Reflection" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AIPlayer.cs" t="Include" />
+        <e p="AIPlayerTargetAttribute.cs" t="Include" />
+        <e p="Animals" t="Include">
+          <e p="Cat.cs" t="Include" />
+        </e>
+        <e p="Editor" t="Include">
+          <e p="CommandPropertyDrawer.cs" t="Include" />
+          <e p="GenerateAnimals.cs" t="Include" />
+        </e>
+        <e p="ExampleScript.cs" t="Include" />
+        <e p="Extensions.cs" t="Include" />
+        <e p="Pet.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Reflection.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
